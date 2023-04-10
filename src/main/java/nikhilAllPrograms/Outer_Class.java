@@ -1,4 +1,4 @@
-package pratice.corejava;
+package nikhilAllPrograms;
 
 public class Outer_Class {
     long OutAccount_No = 12345;

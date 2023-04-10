@@ -1,4 +1,4 @@
-package newJava.coreJava;
+package java.coreJava;
 
 public class Blocks {
     int  a=10;

@@ -1,4 +1,4 @@
-package newJava.coreJava;
+package java.coreJava;
 
 public class MethodTest {
 int a=40;

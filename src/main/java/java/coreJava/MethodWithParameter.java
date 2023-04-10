@@ -1,4 +1,4 @@
-package newJava.coreJava;
+package java.coreJava;
 
 public class  MethodWithParameter {
     public void addiction(int a,int  b){

@@ -1,4 +1,4 @@
-package pratice.corejava;
+package nikhilAllPrograms;
 
 public class Opetor {
     public static void main(String[] args) {

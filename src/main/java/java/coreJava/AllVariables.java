@@ -1,4 +1,4 @@
-package newJava.coreJava;
+package java.coreJava;
 
 public class AllVariables {
    static int w=10;

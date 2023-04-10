@@ -1,4 +1,4 @@
-package pratice.programs;
+package nikhilAllPrograms;
 
 public class Values {
     public void get(int a,int b){

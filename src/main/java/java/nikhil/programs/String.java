@@ -1,4 +1,4 @@
-package programs;
+package java.nikhil.programs;
 
 import org.testng.annotations.Test;
 
@@ -20,6 +20,7 @@ public class String {
             System.out.println(st[i]);
         }
     }
+
 
 
 }

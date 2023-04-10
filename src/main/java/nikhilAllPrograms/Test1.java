@@ -1,4 +1,4 @@
-package pratice.corejava;
+package nikhilAllPrograms;
 
 
 

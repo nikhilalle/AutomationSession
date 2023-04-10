@@ -1,4 +1,4 @@
-package newJava.coreJava;
+package java.coreJava;
 
 public class Addiction {
     public static void main(String[] args) {

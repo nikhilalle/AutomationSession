@@ -1,4 +1,4 @@
-package newJava.coreJava;
+package java.coreJava;
 
 import org.testng.annotations.Test;
 

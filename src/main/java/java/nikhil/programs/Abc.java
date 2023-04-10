@@ -1,4 +1,4 @@
-package programs;
+package java.nikhil.programs;
 
 public class Abc {
 //    Abc(){

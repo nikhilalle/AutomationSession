@@ -1,4 +1,4 @@
-package programs;
+package java.nikhil.programs;
 
 import org.testng.annotations.Test;
 

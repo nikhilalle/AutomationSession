@@ -1,11 +1,11 @@
-package newJava.coreJava;
+package java.coreJava;
 
 import org.testng.annotations.Test;
 
 public class StringTest2 {
-    String name = "pooja";
+    String name = "java/pooja";
     String name1 = "suvi";
-    String name2 = "kiran";
+    String name2 = "java/kiran";
     String Sname = "POOJA DHAVEl";
     String Sname1 = "SUVI WASNIK";
     String Sname2 = "KIRAN JAVALGE";

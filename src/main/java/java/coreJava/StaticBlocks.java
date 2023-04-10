@@ -1,4 +1,4 @@
-package newJava.coreJava;
+package java.coreJava;
 
 public class StaticBlocks {
     int  a=10;

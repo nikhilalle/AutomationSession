@@ -1,4 +1,4 @@
-package newJava.coreJava;
+package java.coreJava;
 
 public class StaticNonStaticBlocks {
 
@@ -14,6 +14,7 @@ public class StaticNonStaticBlocks {
     {
         System.out.println("Non Static Block ");
     }
+
     {
         System.out.println("Non Static Block   2  ");
     }

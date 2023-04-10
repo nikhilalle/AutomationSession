@@ -1,4 +1,4 @@
-package newJava.coreJava;
+package java.coreJava;
 
 public class MethodChainParameters {
     public void addiction(int a,int  b){

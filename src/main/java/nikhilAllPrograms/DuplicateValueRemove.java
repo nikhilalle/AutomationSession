@@ -1,4 +1,4 @@
-package pratice.programs;
+package nikhilAllPrograms;
 
 import java.util.*;
 

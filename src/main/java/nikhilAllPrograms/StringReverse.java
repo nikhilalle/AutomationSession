@@ -1,2 +1,4 @@
-package nikhilAllPrograms;public class StringReverse {
+package nikhilAllPrograms;
+
+public class StringReverse {
 }
