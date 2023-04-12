@@ -4,54 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f596231b-ad3e-4e1a-9789-0d3304b112f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/AllVariables1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/Ch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/Grandparent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/MethodNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/Parent1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/StringRevese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/ConsecutiveNumbersArray.java" afterDir="false" />
+    <list default="true" id="f596231b-ad3e-4e1a-9789-0d3304b112f6" name="Changes" comment="Programs">
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variableTest/AllVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variableTest/MethodCallInOtherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variableTest/ParameterVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/DataTypeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/EmployeeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/GenriceNonGenrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/JavaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/LocalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/LocalVeriable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/MethodCallingClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/NewProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/NonStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/ObjCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/ReverStringProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/SimProgm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/SimpleProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/StaticMethodCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/StaticMethodProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/StaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/StaticVariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/StudentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/VariableProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/VariableProgram2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/VariableProgram3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/VariableProgram5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/VariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/WithGenaricCollection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/Addiction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/Addiction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/AllVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/AllVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/Blocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/Blocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/ConTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/ConTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/Concept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/Concept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/ConstructorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/ConstructorTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/ConstructorTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/MethodChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/MethodChain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/MethodChainParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/MethodChainParameters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/MethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/MethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/MethodWithParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/MethodWithParameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/Simple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/StaticBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/StaticBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/StaticNonStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/StaticNonStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/StaticNonStaticBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/StaticNonStaticBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/StringAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/StringAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/StringEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/StringEqual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/StringTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/StringTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/StringTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/StringTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/TestConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/TestConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/coreJava/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/coreJava/Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/Abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/Abc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/StringMissingElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/StringMissingElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/DuplicateValueRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/DuplicateValueRemove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/Opetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/Opetor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/Outer_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/Outer_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/Outer_Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/Outer_Class1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/SequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/SequenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/StringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/Values.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nikhilAllPrograms/Values.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,12 +65,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Project Feb 2023/Automation Session/src/main/java/nikhilAllPrograms",
+    "last_opened_file_path": "D:/Project Feb 2023/Automation Session/src/main/java/java/nikhil/programs",
     "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project Feb 2023\Automation Session\src\main\java\java\nikhil\programs" />
       <recent name="D:\Project Feb 2023\Automation Session\src\main\java\nikhilAllPrograms" />
       <recent name="D:\Project Feb 2023\Automation Session\src\main\java\nikhil" />
     </key>
@@ -197,6 +181,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679555658115</updated>
     </task>
+    <task id="LOCAL-00001" summary="Programs">
+      <created>1681147650299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681147650299</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +201,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
