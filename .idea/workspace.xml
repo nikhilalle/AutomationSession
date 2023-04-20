@@ -5,36 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f596231b-ad3e-4e1a-9789-0d3304b112f6" name="Changes" comment="Programs">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variableTest/AllVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variableTest/MethodCallInOtherClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variableTest/ParameterVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/DataTypeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/EmployeeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/GenriceNonGenrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/JavaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/LocalVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/LocalVeriable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/MethodCallingClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/NewProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/NonStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/ObjCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/ReverStringProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/SimProgm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/SimpleProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/StaticMethodCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/StaticMethodProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/StaticVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/StaticVariableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/StudentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/VariableProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/VariableProgram2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/VariableProgram3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/VariableProgram5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/VariableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/nikhil/programs/variables/WithGenaricCollection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "D:/Project Feb 2023/Automation Session/src/main/java/java/nikhil/programs",
-    "settings.editor.selected.configurable": "project.propCompiler"
+    "settings.editor.selected.configurable": "shared-indexes"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -188,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681147650299</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Programs">
+      <created>1681322108506</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681322108506</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,5 +204,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
